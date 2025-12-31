@@ -1,7 +1,20 @@
 
 <p align="center">
-  <img width="600" alt="Typing Animation" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=2FA1F7&center=true&vCenter=true&width=800&lines=Hi,+I'm+Abdelrahman+Hesham;Flutter+Developer+%7C+Full-Stack+Engineer+%7C+Clean+Architecture+Advocate">
+  <img
+    src="https://readme-typing-svg.herokuapp.com
+      ?font=Fira+Code
+      &size=30
+      &pause=1000
+      &color=2FA1F7
+      &center=true
+      &vCenter=true
+      &width=1000
+      &lines=Hi,+I'm+Abdelrahman+Hesham;
+      Flutter+Developer+|+Full-Stack+Engineer+|+Clean+Architecture"
+    alt="Typing SVG"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Etsh95&color=2FA1F7" alt="Profile Views"/>
@@ -72,17 +85,18 @@ Most of my **professional contributions** (features, bug fixes, tests, refactori
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/abdelrahman-hesham-b81239167">
-    <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:your_email@example.com">
-    <img alt="Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />
+  <a href="mailto:abdelrahman.hesham.fadel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
