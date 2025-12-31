@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2FA1F7&center=true&vCenter=true&width=1200&lines=Hi,+I'm+Abdelrahman+Hesham;Flutter+Developer+|+Full-Stack+Engineer+|+Clean+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=2FA1F7&center=true&vCenter=true&width=1200&lines=Hi,+I'm+Abdelrahman+Hesham;Flutter+Developer+|+Full-Stack+Engineer+|+Clean+Architecture" alt="Typing SVG" />
 </p>
 
 
