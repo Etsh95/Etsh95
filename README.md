@@ -97,11 +97,14 @@ Most of my **professional contributions** (features, bug fixes, tests, refactori
   </a>
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Etsh95&show_icons=true&theme=react" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Etsh95&show_icons=true&theme=react"
+    alt="GitHub Stats"
+  />
 </p>
+
