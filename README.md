@@ -59,15 +59,6 @@ EC2 · S3 · CloudFront · RDS · ECR · IAM · VPC · CloudFormation (IaC) · D
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Etsh95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etsh95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ## 🔭 Work Highlights
 
 Most of my **professional contributions** (features, bug fixes, tests, refactoring) live in *private and organization repositories*, so the work below is described rather than linked.
