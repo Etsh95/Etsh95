@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://abdelrahman-hesham.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abdelrahman+Hesham;Full-stack+Software+Engineer;Flutter+%7C+NestJS+%7C+Next.js+%7C+Azure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abdelrahman+Hesham;Full-stack+Software+Engineer;Flutter+%7C+NestJS+%7C+Next.js+%7C+Azure+%7C+AWS" alt="Typing SVG" />
   </a>
 </p>
 
