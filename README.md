@@ -1,11 +1,13 @@
 <p align="center">
   <a href="https://abdelrahman-hesham.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abdelrahman+Hesham;Full-stack+Software+Engineer;Flutter+%7C+NestJS+%7C+Next.js+%7C+Azure+%7C+AWS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abdelrahman+Hesham;Flutter+%26+Full-Stack+Developer;Available+for+freelance+projects;Flutter+%7C+NestJS+%7C+Next.js+%7C+Azure+%7C+AWS" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://abdelrahman-hesham.com"><img src="https://img.shields.io/badge/Portfolio-abdelrahman--hesham.com-22D3EE?style=for-the-badge&labelColor=05070D" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="https://abdelrahman-hesham.com/#contact"><img src="https://img.shields.io/badge/Open_to-Freelance_projects-34D399?style=for-the-badge&labelColor=05070D" alt="Open to freelance projects"/></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Etsh95&color=22D3EE&style=for-the-badge" alt="Profile Views"/>
 </p>
@@ -14,14 +16,28 @@
 
 ## 👨‍💻 About Me
 
-I'm **Abdelrahman Hesham**, a **full-stack software engineer** working end-to-end across mobile, backend, web and cloud: from system design and data modelling to the interface people actually touch, and the infrastructure it runs on.
+I'm **Abdelrahman Hesham**, a **Flutter & full-stack developer** in Cairo. I build and ship mobile apps end to end, plus the backend, web and cloud behind them: from system design and data modelling to the screens people actually touch and the infrastructure it runs on.
 
-- 📱 **Flutter Developer @ Aqarmap**, Egypt's leading real-estate platform: production features with BLoC/Cubit, Clean Architecture and TDD
+- 📱 **Flutter Developer @ Aqarmap**, Egypt's real-estate marketplace app (**1M+ downloads** on iOS and Android): 150+ merged PRs, grew the test suite from **3 to 2,500+ tests**, and I own releases from the Codemagic build to publish on both stores
 - 🏗️ **Software Engineer @ ArchITechs**: lead backend, system design and cloud on the Iraqi Ministry of Finance platform (live at [mof.gov.iq](https://mof.gov.iq)), plus the company's bilingual website and client support system
-- ⚡ **6+ years in enterprise support & incident management** at Dell and Orange, where I learned to debug under pressure and design for reliability
+- ⚡ **7 years in tech**, including 6+ years of production incident work at Dell and Orange, which is why I measure before I optimize and debug calmly under pressure
 - 🎓 BSc, Electronics & Communications Engineering · 📍 Cairo, Egypt
 
 🌐 **Portfolio, case studies and CV → [abdelrahman-hesham.com](https://abdelrahman-hesham.com)**
+
+---
+
+## 💼 Work With Me
+
+I take on freelance and project-based work:
+
+- 📱 [Mobile apps](https://abdelrahman-hesham.com/services/mobile-apps): Flutter apps for iOS and Android, from first build to store release
+- 🌐 [Web platforms & dashboards](https://abdelrahman-hesham.com/services/web-platforms): bilingual EN/AR sites, admin panels and dashboards
+- ⚙️ [Backend, APIs & cloud](https://abdelrahman-hesham.com/services/backend-cloud): NestJS/Strapi APIs, PostgreSQL, Azure/AWS deployments
+- 🤖 [AI automation](https://abdelrahman-hesham.com/services/ai-automation): Arabic/English WhatsApp and web support bots, AI workflows and multi-agent pipelines
+- 🛠️ [App rescue & refactor](https://abdelrahman-hesham.com/services/app-rescue): stabilize, test and re-architect an existing app
+
+👉 **[Tell me about your project](https://abdelrahman-hesham.com/#contact)**
 
 ---
 
@@ -31,7 +47,9 @@ I'm **Abdelrahman Hesham**, a **full-stack software engineer** working end-to-en
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-BLoC · Cubit · Provider · GetIt · Clean Architecture · TDD · Custom Widgets & Tween Animations
+BLoC · Cubit · Riverpod · GetIt · Clean Architecture · Google Maps & clustering · Isolates & performance profiling · Custom widgets & animations · Universal Links / App Links · iPad & Mac layouts · Arabic/RTL
+
+**Testing & release:** TDD · unit, widget & integration tests · bloc_test · mocktail · Codemagic · Google Play Console · App Store Connect · Firebase (Auth, Firestore rules, Crashlytics, FCM)
 
 ### ⚙️ Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -77,12 +95,28 @@ Azure (VMs · Front Door · Blob Storage · Key Vault · Communication Services 
 
 Most of my professional work lives in *private and organization repositories*, so it's described here rather than linked. Full case studies are on **[my portfolio](https://abdelrahman-hesham.com)**.
 
+### 🏠 Aqarmap: Real-Estate Marketplace App (1M+ downloads) → [case study](https://abdelrahman-hesham.com/projects/aqarmap)
+- 150+ merged PRs across the consumer Flutter app, Aqarmap Live (the app paid customers use to manage listings, leads and analytics) and 3 shared Flutter libraries, with **BLoC/Cubit**, **Clean Architecture** and **GetIt**
+- Grew the automated test suite from **3 to 2,500+ tests**; own releases end to end from **Codemagic** builds to publish on Google Play and the App Store (10+ releases)
+- Replaced webviews with native screens (Compound & Unit Details, Price Guide with a 12-month price trend chart) and fixed 9 latent bugs in shared listing code along the way
+- Profiled Search by Map on device and cut marker rendering from **91–491 ms to 0–100 ms** per refresh, then moved the map to server-side clustering
+- Extended the app to **iPad and the Mac App Store**, and made website links open the matching native screen via Universal Links and App Links
+
 ### 🏛️ Iraqi Ministry of Finance: Government Platform, CMS & Cloud → [mof.gov.iq](https://mof.gov.iq)
 - Migrated the bilingual Arabic/English site off SharePoint (which was hitting Microsoft Graph rate limits) into a **Strapi 5** block-based page builder with a **SvelteKit** frontend, moving ~240 pages and 700+ media files
 - Merged a separate NestJS/Prisma backend into Strapi and built a **React** admin for a role → department → user permission model with email-OTP and a submit → review → publish workflow
 - Rebuilt six Power BI budget dashboards natively in **Svelte + Chart.js**, with an Excel upload wizard
 - Moved the stack from AWS to **Azure** with **Bicep**: Cloudflare → Front Door → Nginx on a VM, Blob Storage, Key Vault, Azure Communication Services
 - **k6** load tests up to 800 virtual users; fixed rate-limiting and proxy-trust defects: **failures under load 85% → 0**, **CMS p95 13 s → 1.6 s**
+
+### 🕌 Moean (مُعين): Flutter App Rescue → [case study](https://abdelrahman-hesham.com/projects/moean)
+Client project: an Arabic-first Islamic companion app (prayer times, Quran, qibla, nearby mosques, imam and admin portals) on **Flutter + Firebase**.
+- Re-architected 17 features (~29k lines of Dart) from Riverpod to **Clean Architecture with BLoC/Cubit**, in 12 phases that kept the build green; added 360+ tests and finished with 0 analyzer issues
+- Closed privilege-escalation holes and rewrote the **Firestore security rules** with 19 emulator tests
+- Built a geographic grid cache for nearby-mosque search (revisits cost 0 API credits) and corrected the qibla compass to true north with the World Magnetic Model
+
+### 💬 AI Business Platform: Multi-Tenant AI SaaS (Founder) → [case study](https://abdelrahman-hesham.com/projects/ai-business-platform)
+Live multi-tenant AI platform for Egyptian companies. Its live module is an **Arabic/English customer-support bot on the WhatsApp Business API**, built with **Node.js**, **TypeScript**, **PostgreSQL (Supabase)** and the **Claude API** with prompt caching and per-company usage tracking.
 
 ### 🛟 ArchITechs: Corporate Website & Client Support System → [architechs.ca](https://architechs.ca)
 - Bilingual (EN/AR, RTL) **Next.js** site with a client portal for tickets, attachments and replies
@@ -108,6 +142,9 @@ Production website for a multi-division holding company operating across Canada,
 ---
 
 ## 📌 Public Projects
+
+### 📈 [Paperdesk: paper-trading platform](https://github.com/Etsh95/paper-trading-platform)
+Practise crypto trading with virtual money against **live Binance prices**: market and limit orders, a matching simulator, portfolio P&L, real-time updates and English/Arabic (RTL). **.NET 10 · ASP.NET Core · SignalR · React 19 · TypeScript · Docker**
 
 ### 🌟 [etshflix_aqarmap](https://github.com/Etsh95/etshflix_aqarmap)
 **Flutter app**: real-estate client built with Clean Architecture, TDD and real-world API integration.
